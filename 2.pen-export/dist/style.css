@@ -1,0 +1,21 @@
+h1{
+  color:#C51D34;
+  font-size:5rem;
+  font-family:"Space Mono";
+  text-align:center;
+  margin-top:15%;
+  width: auto;
+}
+div{
+  border-radius: 15px;
+  width:730px;
+  margin: auto;
+
+}
+
+div:hover{
+  background-color: yellow;
+}
+body{
+  background-color:black;
+}
